@@ -1,0 +1,19 @@
+body{
+	background-color: lightskyblue;
+}
+p{
+	font-size: 50px;
+	background-color: turquoise;
+	color: greenyellow;
+}
+label{
+	font-size: 32px;
+	color: rebeccapurple;
+}
+input.inp1{
+	font-size: 24px;
+	color: green;
+}
+.inp2{
+	width: 32px;
+}
